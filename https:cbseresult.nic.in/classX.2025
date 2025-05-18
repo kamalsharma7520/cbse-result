@@ -1,0 +1,21 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CBSE Result 2025</title>
+</head>
+<body>
+    <h2>Secondary School Examination (Class X) 2025</h2>
+    <form action="result.html" method="get">
+        <label>Enter your Roll Number:</label>
+        <input type="text" name="roll" required><br><br>
+        <label>Enter School No.:</label>
+        <input type="text" name="school" required><br><br>
+        <label>Enter Date of Birth:</label>
+        <input type="text" name="dob" required><br><br>
+        <label>Enter Admit Card ID:</label>
+        <input type="text" name="admit" required><br><br>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
